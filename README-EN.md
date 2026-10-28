@@ -195,6 +195,7 @@ Feel free to submit PRs and issues to update the content. If you have any questi
 
 | Name | Features | Online Address | Status |
 | --- | --- | --- | --- |
+| [WikiMasters](https://github.com/tik568/wikimasters-game) | Real-time Wikipedia trading card duel game built with Cloudflare Workers & Durable Objects | [wikimasters.org](https://wikimasters.org) | Active |
 | [silk-privacy-pass-client](https://chromewebstore.google.com/detail/silk-privacy-pass-client/ajhmfdgkijocedmfjonnpjfojldioehi) |Frequent appearance of Cloudflare human verification, you can use this official Cloudflare plugin to solve it, after installation, you will no longer encounter human verification prompts. | | Under maintenance |
 | [WARP-Clash-API](https://github.com/vvbbnn00/WARP-Clash-API) |This project allows you to use WARP+ through subscription, supporting clients such as Clash and Shadowrocket. The project has built-in functions to obtain WARP+ traffic, allowing you to bypass restrictions on your WARP+ traffic (1GB traffic every 18 seconds), and equipped with IP optimization function. It supports one-click deployment with Docker compose, so you can enjoy your own WARP+ private high-speed node without extra operations! | | Under maintenance |
 | [ip-api](https://github.com/ccbikai/ip-api) |Set up a quick IP address and geographical location information acquisition interface using Cloudflare Workers / Vercel Edge / Netlify Edge. |<https://html.zone/ip> | Under maintenance |
